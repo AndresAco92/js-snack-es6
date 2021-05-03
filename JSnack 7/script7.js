@@ -82,7 +82,7 @@ $(function(){
           marca: ${marca}
           <ul>
             <li>
-              modello: ${modello}<br>
+              modello: ${modello}
             </li>
             <li>  
               alimentazione: ${alimentazione}
