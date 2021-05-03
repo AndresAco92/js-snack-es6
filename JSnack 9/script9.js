@@ -52,7 +52,9 @@ $(function(){
       famiglia :'pelobatidi',
       classe :'anfibi'
     },
-  ],
+  ];
 
-
+  const regnoMammifero = arrAnimals.filter((animal) => animal.classe === 'mammiferi');
+  console.log(regnoMammifero);
+  
 });
